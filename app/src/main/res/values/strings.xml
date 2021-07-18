@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CombustibleLubricants</string>
+    <string name="label1">Приход дизельного топлива за сутки, л</string>
+    <string name="label2">Расход дизельного топлива за сутки, л</string>
+    <string name="label3">Рассчитать</string>
+</resources>
